@@ -1,4 +1,4 @@
-<h1 align="center">print("Hello world!") 🌎</h1>
+<h1 align="center">print("Welcome!") 🌎</h1>
 
 ## who is this woman? 👑
 ## learning 📚
