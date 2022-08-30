@@ -1,6 +1,6 @@
 <h1 align="center">print("Welcome!") 🌎</h1>
 
-## who is this woman? 👑
+## who I am? 👑
 ## learning 📚
 ## future 🔮
 
