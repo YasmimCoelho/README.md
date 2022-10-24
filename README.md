@@ -1,8 +1,8 @@
 <h1 align="center">print("Welcome!") 🌎</h1>
 
-## who I am? 👑
-## learning 📚
-## future 🔮
+## 👑
+## 📚
+## 🔮
 
 ## 👱‍♀️ for more content
 
