@@ -6,8 +6,6 @@
 
 ## 👱‍♀️ for more content
 
-* Twitter: [@yasmintcoelho](https://twitter.com/yasmintcoelho)
-* Github: [@YasmimCoelho](https://github.com/YasmimCoelho)
 * LinkedIn: [@Yasmim Coelho Tavares](https://www.linkedin.com/in/yasmin-coelho-tavares/)
 * Instagram: [@yasmintcoelho](https://www.instagram.com/yasmintcoelho/)
 
